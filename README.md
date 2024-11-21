@@ -1,3 +1,3 @@
 # projeto-cordel
 
-Projeto corde / Curso em Vídeo.
+Projeto cordel / Curso em Vídeo.
